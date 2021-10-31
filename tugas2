@@ -1,0 +1,23 @@
+    <!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" type = "text/css" href = "mystyle.css">
+<style>
+    p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    body{
+        background-color: aqua;
+    }
+    h1{
+        color: beige;
+    }
+</style>
+</head>
+<body>
+
+<h1>Belajar HTML nd CSS</h1>
+<p>Mari Belajar Ngoding</p>
+
+</body>
+</html>
